@@ -1,0 +1,40 @@
+---
+title: 'Test Post'
+date: '2024-01-13'
+tags: ['journal']
+---
+
+When I decided that I'll journal my life from 2024 I had 2 choices.
+
+    1. Journal with pen and paper on diary 
+    2. Create something challenging for journaling, like a Digital Journal
+
+And I chose option 2. 
+
+I love programming and creating new stuffs with the help of computer and codes. So I created this.
+
+This web app is totally created from scaratch by me.
+
+## Why Journaling Digitally
+
+Many studies have proved that writing helps in many ways. When I used to feel low, I would write my feelings on paper then burn.
+
+I still write on diary but the problem with pen and paper on diary for me was different. 
+
+Basically I wanted to organize my life in one place. Books I read in 2023 was very helpful but I can't even recall important quotes and notes which
+is still highlighted with marker on books. And I did'nt wanted to open that book again. 
+
+## What problem I'm solving with this
+
+First things first, my journal will be with me every time, every where online. I can access it on any device.
+
+I don't need to open books I read in past to reacall important notes because this journal will have a feature which
+will show random highlighted notes which I marked on books everyday. (Still working on this feature)
+
+Whatever I'll write I can see any time and with the help of getRandomPost() I would enjoy what I wrote on whatever day.
+
+I'm very excited to write on the journal and hope this would help me in many ways.
+
+There are many things to be done. Many features needs to be introduced. 
+
+👋See you beckkk in the next post.....
